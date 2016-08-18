@@ -1,0 +1,10 @@
+{
+    "attributes": {
+        "pattern": {
+            "context": "input"
+        }
+    },
+    "elements": {
+        "a": {}
+    }
+}
